@@ -25,4 +25,8 @@ CMD pip install -e .
 
 CMD ["python","prediction_model/training_pipeline.py"]
 WORKDIR /code
+<<<<<<< HEAD
 CMD ["python","main.py"]
+=======
+CMD ["python","main.py"]
+>>>>>>> 4c8db43 (initial commit)
